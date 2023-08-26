@@ -1,7 +1,7 @@
 ### Hi there 👋
 
- :school_satchel:I’m currently learning Data Analytics through University of Wisconsin extended campus -- to be completed in May. 
+ :school_satchel:Earned a certificate from University of Wisconsin Data Analytics & Visualization Boot Camp, here I developed skills in Python, Pandas, SQL, and many more. 
 
- :mortar_board:Graduated in December 2018 with a Bachelor of Business Administration in finance at University of Wisconsin-Milwaukee. Go Panthers! 
+ :mortar_board:Graduated with a Bachelor of Business Administration in finance at University of Wisconsin-Milwaukee. Go Panthers! 
 
 
